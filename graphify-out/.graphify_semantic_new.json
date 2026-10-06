@@ -1,0 +1,482 @@
+{
+  "nodes": [
+    {
+      "id": "readme_reel_digest",
+      "label": "ReelDigest",
+      "file_type": "concept",
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_automated_audio_extraction",
+      "label": "Automated Audio Extraction",
+      "file_type": "concept",
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_local_private_transcription",
+      "label": "Local Private Transcription",
+      "file_type": "rationale",
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_ai_synthesis",
+      "label": "AI Synthesis",
+      "file_type": "concept",
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_structured_knowledge",
+      "label": "Structured Knowledge",
+      "file_type": "concept",
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_clipboard_watcher_mode",
+      "label": "Clipboard Watcher Mode",
+      "file_type": "concept",
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_architecture_design",
+      "label": "Architecture Design",
+      "file_type": "concept",
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_downloader_py",
+      "label": "downloader.py",
+      "file_type": "code",
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_transcriber_py",
+      "label": "transcriber.py",
+      "file_type": "code",
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_faster_whisper_transcriber",
+      "label": "FasterWhisperTranscriber",
+      "file_type": "code",
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_summarizer_py",
+      "label": "summarizer.py",
+      "file_type": "code",
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_storage_py",
+      "label": "storage.py",
+      "file_type": "code",
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "requirements_core_pipeline_dependencies",
+      "label": "Core Pipeline Dependencies",
+      "file_type": "document",
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\requirements.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "requirements_yt_dlp",
+      "label": "yt-dlp",
+      "file_type": "code",
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\requirements.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "requirements_faster_whisper",
+      "label": "faster-whisper",
+      "file_type": "code",
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\requirements.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "requirements_av",
+      "label": "av",
+      "file_type": "code",
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\requirements.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "requirements_openai",
+      "label": "openai",
+      "file_type": "code",
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\requirements.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "requirements_pydantic",
+      "label": "pydantic",
+      "file_type": "code",
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\requirements.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "requirements_python_dotenv",
+      "label": "python-dotenv",
+      "file_type": "code",
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\requirements.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "requirements_rich",
+      "label": "rich",
+      "file_type": "code",
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\requirements.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "requirements_typer",
+      "label": "typer",
+      "file_type": "code",
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\requirements.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "requirements_pyperclip",
+      "label": "pyperclip",
+      "file_type": "code",
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\requirements.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "requirements_pytest",
+      "label": "pytest",
+      "file_type": "code",
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\requirements.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "readme_reel_digest",
+      "target": "readme_automated_audio_extraction",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "readme_reel_digest",
+      "target": "readme_local_private_transcription",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "readme_reel_digest",
+      "target": "readme_ai_synthesis",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "readme_reel_digest",
+      "target": "readme_structured_knowledge",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "readme_reel_digest",
+      "target": "readme_clipboard_watcher_mode",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "readme_reel_digest",
+      "target": "readme_architecture_design",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "readme_architecture_design",
+      "target": "readme_downloader_py",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "readme_architecture_design",
+      "target": "readme_transcriber_py",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "readme_architecture_design",
+      "target": "readme_summarizer_py",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "readme_architecture_design",
+      "target": "readme_storage_py",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "readme_faster_whisper_transcriber",
+      "target": "readme_transcriber_py",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "readme_local_private_transcription",
+      "target": "readme_faster_whisper_transcriber",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "readme_automated_audio_extraction",
+      "target": "requirements_yt_dlp",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "readme_local_private_transcription",
+      "target": "requirements_faster_whisper",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "readme_ai_synthesis",
+      "target": "requirements_openai",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "readme_clipboard_watcher_mode",
+      "target": "requirements_pyperclip",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "readme_downloader_py",
+      "target": "requirements_yt_dlp",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "readme_transcriber_py",
+      "target": "requirements_faster_whisper",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "readme_summarizer_py",
+      "target": "requirements_openai",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "requirements_core_pipeline_dependencies",
+      "target": "requirements_yt_dlp",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\requirements.txt",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "requirements_core_pipeline_dependencies",
+      "target": "requirements_faster_whisper",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\requirements.txt",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "requirements_core_pipeline_dependencies",
+      "target": "requirements_av",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Users\\Abdullah Rafid\\reel-digest\\requirements.txt",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

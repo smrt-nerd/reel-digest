@@ -1,0 +1,19 @@
+# Core pipeline dependencies
+yt-dlp>=2024.08.06
+faster-whisper>=1.0.3
+av<14.0.0
+
+# AI / Summarizer integration
+openai>=1.40.0
+
+# System and Config
+pydantic>=2.8.0
+python-dotenv>=1.0.1
+
+# CLI & Output formatting
+rich>=13.8.0
+typer>=0.12.5
+pyperclip>=1.9.0
+
+# Testing
+pytest>=8.3.2
