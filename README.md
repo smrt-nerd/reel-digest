@@ -20,7 +20,7 @@ Perfect for researchers, creators, and idea curators who want to capture value f
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/reel-digest.git
+   git clone https://github.com/smrt-nerd/reel-digest.git
    cd reel-digest
    ```
 
