@@ -32,3 +32,9 @@ dependencies = [
 
 [project.scripts]
 reel = "main:app"
+
+[tool.setuptools]
+py-modules = ["main"]
+
+[tool.setuptools.packages.find]
+include = ["reel_digest", "reel_digest.*"]

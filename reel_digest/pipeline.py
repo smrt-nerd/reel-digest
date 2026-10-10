@@ -22,8 +22,8 @@ class ReelDigestPipeline:
     def process(self, url: str) -> str:
         audio_path = None
         try:
-            self.progress(f"Downloading audio from Reel: {url}")
-            audio_path, title = self.downloader.download(url)
+            self.progress(f"Downloading audio from {url}")
+            audio_path, title, platform_metadata = self.downloader.download(url)
             self.progress(f"Audio downloaded: {title} (saved to temp)")
 
             self.progress(f"Transcribing audio with faster-whisper (CPU int8)...")
@@ -37,7 +37,8 @@ class ReelDigestPipeline:
                 url=url,
                 title=title,
                 transcript_result=transcript_result,
-                summary_result=summary_result
+                summary_result=summary_result,
+                platform_metadata=platform_metadata
             )
             self.progress(f"Success! Note saved to {note_path}")
             return note_path

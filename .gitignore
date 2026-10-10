@@ -42,3 +42,9 @@ htmlcov/
 
 # AI code assistants
 .claude/
+
+# Package Info
+*.egg-info/
+.eggs/
+
+graphify-out/
